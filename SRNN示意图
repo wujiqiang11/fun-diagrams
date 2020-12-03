@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T08:25:45.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UAC0na9CaOW_5E8GfQ24" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T08:29:31.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="DXtLtNGwTC_GHL2j7TvE" version="13.10.6" type="github">
   <diagram id="VU27ugFFY82a8Jdmwt-_" name="Page-1">
     <mxGraphModel dx="782" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1542,6 +1542,12 @@
         </mxCell>
         <mxCell id="eVxp6AVnoNXKcTO5gEUs-103" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Cloud Server&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="1026.5" width="119" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eVxp6AVnoNXKcTO5gEUs-104" value="&lt;b&gt;Actor network:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="811.5" width="95" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="eVxp6AVnoNXKcTO5gEUs-105" value="&lt;b&gt;Critic network:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="776.5" width="94" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
